@@ -1,2 +1,3 @@
-def func():
-    print("hello i am in a database")
+{
+"code": "def func():\n    print("hello i am in a database")"
+}
